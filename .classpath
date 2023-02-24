@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="core"/>
+	<classpathentry kind="src" path="rups"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/bcmail-jdk14-129.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-1.45.jar"/>
+	<classpathentry kind="lib" path="lib/bctsp-jdk15-145.jar"/>
+	<classpathentry kind="lib" path="lib/iText-5.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/lcrypto-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/org-openide-util-lookup.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.dom4j-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
